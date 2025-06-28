@@ -6,13 +6,13 @@ Hello! I'm currently studying **Computer Science and Engineering** at Dhaka Inte
 
 <div align="right">
 
-![image1](image1)
+
 
 </div>
 
 ---
 
-- 💬 **Ask me about**: **Digital Marketing and Problem Solving**
+- 💬 **Ask me about**: **Problem Solving**
 - 💻 **Languages**:
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -21,7 +21,6 @@ Hello! I'm currently studying **Computer Science and Engineering** at Dhaka Inte
 
 ---
 
-> "_Striving for excellence in every line of code._"
 
 ---
 
