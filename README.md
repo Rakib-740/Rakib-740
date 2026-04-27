@@ -8,11 +8,11 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Md. Rakibuzzaman**, a passionate **Frontend Developer** and **CSE student** at Daffodil International University, Dhaka, Bangladesh. I love turning ideas into real, interactive web experiences — clean code, clean UI, and meaningful projects.
+Hi there! I'm **Md. Rakibuzzaman**, a passionate **Frontend Developer** and **CSE student** at Dhaka International University, Dhaka, Bangladesh. I love turning ideas into real, interactive web experiences — clean code, clean UI, and meaningful projects.
 
 - 🌍 **Location:** Dhaka, Bangladesh
 - 📧 **Email:** [rakibuzzaman740@gmail.com](mailto:rakibuzzaman740@gmail.com)
-- 🎓 **Studying:** Computer Science & Engineering at Daffodil International University
+- 🎓 **Studying:** Computer Science & Engineering at Dhaka International University
 - 🏆 **Achievement:** Hackathon Winner — DIU CPC Hackathon 2025
 
 ---
@@ -21,7 +21,7 @@ Hi there! I'm **Md. Rakibuzzaman**, a passionate **Frontend Developer** and **CS
 
 - 🚀 Currently exploring **Next.js** and diving deeper into full-stack development
 - 🛒 Building a **digital tools marketplace** with React & Tailwind CSS
-- 📋 Working on a **Job Application Tracker** using Vanilla JS
+- 📋 Working on a **Personal Portfolio** using React & Tailwind CSS
 - 💡 Strengthening my **problem-solving** skills in C & C++
 - 🌐 Learning about **REST APIs** and backend integration
 
