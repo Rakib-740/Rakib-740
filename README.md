@@ -88,7 +88,7 @@ Hi there! I'm **Md. Rakibuzzaman**, a passionate **Frontend Developer** and **CS
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="40" title="GitHub" />
   </a>
   &nbsp;
-  <a href="[https://www.facebook.com/YOUR_FACEBOOK_USERNAME](https://www.facebook.com/md.rakibuzzaman.720378)" target="_blank">
+  <a href="https://www.facebook.com/md.rakibuzzaman.720378" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="40" title="Facebook" />
   </a>
   &nbsp;
